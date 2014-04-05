@@ -1,5 +1,4 @@
 
-
 class Welcomer 
 #This is the greeting message that creates a new account
     def initialize
