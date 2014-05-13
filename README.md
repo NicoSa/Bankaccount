@@ -1,8 +1,23 @@
-##Bankaccount
+Bankaccount
 ===
 This script is derived from the last exercise of the Ruby tutorial on http://www.codeacademy.com !
 
-Basically it´s just a script where you can enter a name, password, go into an 'account' add money, withdraw money and so on. 
+Objectives of exercise
+----
+Learn a little about how classes, methods and different kinds of variables interact in Ruby.
 
-Very basic, just me playing around sending information  between methods and classes.
+Technologie used
+----
+- Ruby
+- Command Line
+
+How to run it
+----
+```sh
+git clone git@github.com:NicoSa/Boris-Bikes.git
+cd Bankaccount
+ruby bankaccount.rb
+```
+
+
 
